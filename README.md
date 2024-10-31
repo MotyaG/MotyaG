@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on linux distro<br>🌱 I’m currently learning CPP, Ethical hacking<br>💬 Ask me about Python, C#, Avalonia<br>⚡ Fun fact! First computer virus was a Creeper!
+🔭 I’m currently working on aegis-tui PR<br>🌱 I’m currently learning CPP, Ethical hacking<br>💬 Ask me about Python, C#, Avalonia<br>⚡ Fun fact! First computer virus was a Creeper!
 
 
 # 💻 Tech Stack:
