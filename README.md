@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on -<br>🌱 I’m currently learning CPP, Ethical hacking<br>💬 Ask me about Python, C#, Avalonia<br>⚡ Fun fact! First computer virus was a Creeper!
+🔭 I’m currently working on dlc loader<br>🌱 I’m currently learning FastAPI<br>💬 Ask me about Python, C#, Avalonia<br>⚡ Fun fact! First computer virus was a Creeper!
 
 
 # 💻 Tech Stack:
